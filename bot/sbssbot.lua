@@ -427,7 +427,7 @@ ____________
 Send /share to get robot number
 ____________
 You can use [ ! , / or # ]or don’t use them
-More Details on @GOLD_GUARD
+More Details on @GOLD_SHIELD
 ]]
   }
   serialize_to_file(config, './data/config.lua')
